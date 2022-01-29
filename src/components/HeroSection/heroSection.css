@@ -2,13 +2,17 @@
   position: relative;
 }
 .hero-section {
-  min-height: 100vh;
+  background-image: url('./bg.png');
+  /* min-height: 100vh; */
   text-align: center;
+  width:100%;
+
 }
 
 .hero-heading {
   font-size: 106px;
   font-weight: 700;
+  color: gold;
 }
 
 .hero-subheading {

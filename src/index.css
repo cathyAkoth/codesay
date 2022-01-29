@@ -9,7 +9,13 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   box-sizing: border-box;
-  background-color: var(--bg-black);
+ 
+  background-image: url(./bg1.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  
+  /* background-color: purple;  */
+  
   color: var(--text);
 }
 
